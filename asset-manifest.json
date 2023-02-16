@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/castle-wars-deck-builder/static/css/main.073c9b0a.css",
+    "main.js": "/castle-wars-deck-builder/static/js/main.39b32883.js",
+    "static/js/787.b88fba07.chunk.js": "/castle-wars-deck-builder/static/js/787.b88fba07.chunk.js",
+    "static/media/logo.svg": "/castle-wars-deck-builder/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/castle-wars-deck-builder/index.html",
+    "main.073c9b0a.css.map": "/castle-wars-deck-builder/static/css/main.073c9b0a.css.map",
+    "main.39b32883.js.map": "/castle-wars-deck-builder/static/js/main.39b32883.js.map",
+    "787.b88fba07.chunk.js.map": "/castle-wars-deck-builder/static/js/787.b88fba07.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.39b32883.js"
+  ]
+}
